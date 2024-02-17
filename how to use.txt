@@ -1,0 +1,1 @@
+Use this shortcode [mk-woo-product-list title="Cream Mask" category="Cream Mask"] to use this plugin. Where title is the title of this section and category is the product category. You want to show the products of the category.
